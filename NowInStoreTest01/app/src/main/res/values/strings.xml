@@ -5,6 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="WelcomeHomePage">Welcome to the NowInStore Android App V0.0.1</string>
-    <string name="">Settings</string>
+    <string name="Autre">Settings</string>
 
 </resources>
