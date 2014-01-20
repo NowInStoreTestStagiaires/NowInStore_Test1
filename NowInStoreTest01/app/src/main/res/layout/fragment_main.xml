@@ -9,10 +9,19 @@
     tools:context="ca.example.app.MainActivity$PlaceholderFragment">
 
     <TextView
-        android:text="@string/WelcomeHomePage"
+        android:text="@string/welcomeHomePage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:textColorHighlight="#00FFFF"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/autre"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp" />
 
 </RelativeLayout>
