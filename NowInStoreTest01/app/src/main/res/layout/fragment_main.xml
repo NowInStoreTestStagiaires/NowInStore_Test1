@@ -9,8 +9,10 @@
     tools:context="ca.example.app.MainActivity$PlaceholderFragment">
 
     <TextView
-        android:text="@string/hello_world"
+        android:text="@string/WelcomeHomePage"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColorHighlight="#00FFFF"/>
 
 </RelativeLayout>
