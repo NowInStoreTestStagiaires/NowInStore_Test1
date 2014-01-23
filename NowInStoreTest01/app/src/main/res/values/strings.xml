@@ -4,7 +4,11 @@
     <string name="app_name">NowInStoreTest01</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="welcomeHomePage">Welcome to the NowInStore Android App V0.0.1</string>
-    <string name="autre">Settings</string>
+    <string name="loadingPage">Loading</string>
+    <string name="now_in">Now In</string>
+    <string name="store">Store</string>
+    <string name="title_activity_loading_">Loading Activity</string>
+    <string name="title_activity_home__loading">Home_Loading</string>
+    <string name="done">Done</string>
 
 </resources>
